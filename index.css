@@ -1,9 +1,10 @@
 body {
-   background-color: silver;
+   background-image: url(milky-way-2695569_960_720.jpg)/*https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/*/
+/* image is owned pixabay.com*/
 }
 h1{
-    background-color: steelblue;
+    background-color:#5b7085;
 }
 div{
-    background-color: black;
+    background-color:silver;
 }
